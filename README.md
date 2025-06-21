@@ -32,9 +32,7 @@ Make sure to install the dependencies:
 ```bash
 pip install -r requirements.txt
 Minimal requirements.txt:
-text
-Copy
-Edit
+
 langchain
 langchain-community
 langchain-huggingface
